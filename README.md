@@ -1,4 +1,5 @@
 📸 Face Recognition Attendance System
+
 🔍 Project Overview
 The Face Recognition Attendance System is a computer vision-based project that automates attendance tracking using facial recognition. It leverages the face_recognition and OpenCV libraries to detect and identify individuals from a webcam feed. Once a known face is recognized, the system logs the person’s name along with the current date and time into a CSV file, effectively recording their attendance.
 
