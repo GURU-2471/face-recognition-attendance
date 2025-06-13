@@ -1,4 +1,5 @@
 Project Description: Face Recognition Attendance System
+
 The Face Recognition Attendance System is a Python-based automated solution that replaces traditional attendance methods with a contactless, real-time face recognition system. It uses machine learning techniques to detect and recognize human faces via a webcam, verifying identity against a pre-encoded dataset of known individuals.
 
 Key Highlights:
